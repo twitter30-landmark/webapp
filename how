@@ -1,0 +1,41 @@
+[33mcommit 4e7b1388e9cc5de3fc32ccea13de26855647a8b2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31mcc/master[m[33m)[m
+Author: kolby4000 <118008658+kolby4000@users.noreply.github.com>
+Date:   Thu Nov 24 02:26:34 2022 -0500
+
+    Update app.java
+
+[33mcommit 90e97f3183402563f401b03c55db1621408b2191[m
+Author: Your Name <you@example.com>
+Date:   Thu Nov 24 06:55:51 2022 +0000
+
+    deployment created
+
+[33mcommit 8a45ef201867cecf1b18e523fdc5a6527073beab[m
+Author: Your Name <you@example.com>
+Date:   Thu Nov 24 05:24:47 2022 +0000
+
+    dt connection created
+
+[33mcommit 15e83b5f3e7f0a7472fafa1426060095bd8b9c1f[m
+Author: Your Name <you@example.com>
+Date:   Thu Nov 24 05:16:30 2022 +0000
+
+    my second commit
+
+[33mcommit 90db983fbbbbd21d7944e5449c9da2bd3f98b510[m[33m ([m[1;31mtt/master[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Mon Nov 21 21:37:42 2022 +0000
+
+    deployment created
+
+[33mcommit 8441cbb77369496fc72d80f0552cebffacc1e753[m
+Author: Your Name <you@example.com>
+Date:   Mon Nov 21 20:55:48 2022 +0000
+
+    db connection created
+
+[33mcommit e27679bd15373285c86493ffed63372cd43599e7[m
+Author: Your Name <you@example.com>
+Date:   Mon Nov 21 20:44:36 2022 +0000
+
+    my first commit
